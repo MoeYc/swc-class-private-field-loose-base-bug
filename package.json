@@ -1,0 +1,11 @@
+{
+  "name": "swc-class-private-field-loose-base-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "@swc/core": "^1.2.156",
+    "fetch-blob": "^3.1.5"
+  }
+}
